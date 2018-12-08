@@ -72,9 +72,10 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"touhou01.jpg",
-	"touhou02.jpg",
-	"touhou03.jpg"
+	"unknown (4).jpg",
+	"unknown (5).jpg",
+	"unknown (6).jpg",
+	"unknown (7).jpg"
 ];
 
 // (Image-background only)
@@ -115,8 +116,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "lullaby.ogg", name: "Lullaby of Deserted Hell"},
 	{ogg: "falls_in_fall.ogg", name: "秋に舞う椛と滝飛沫"},
-	{youtube: "https://www.youtube.com/watch?v=3VTwbEWW2W8", name: "Tea for Two"},
-	{youtube: "https://www.youtube.com/watch?v=VaDN_19rPyw", name: "Voile, the Magic Library"},
+	{youtube: "https://www.youtube.com/watch?v=TpXboX7hyNc", name: "We are ODST"},
 ];
 
 // Random music order?
